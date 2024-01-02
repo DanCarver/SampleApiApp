@@ -1,0 +1,17 @@
+.vs/
+obj
+bin
+output/
+artifacts/
+/packages/
+!packages/respositories.config
+*.csproj.user
+*.Dotsettings.user
+src/.idea/
+.temp/
+*.user
+*.sqlite
+src/packages
+
+# SpecFlow
+*.feature.cs
